@@ -296,8 +296,10 @@
             </field>
         </record>
 
+<!--
         <menuitem action="action_check_payments_receivable" id="menu_action_check_payments_receivable" parent="account.menu_finance_receivables_documents" sequence="200"/>
         <menuitem action="action_check_payments_payable" id="menu_action_check_payments_payable" parent="account.menu_finance_payables_documents" sequence="200"/>
+-->
 
 
     </data>
